@@ -1,4 +1,4 @@
-This program is used to keep track of the how much memory certain processes
+This program is used to monitor the amount of resources certain processes
 consume, along with its relative consumption compared to the system. It will 
 record either systemwide or process specific performance
 statistics based on the parameters passed (see usage). 
